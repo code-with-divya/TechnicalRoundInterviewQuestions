@@ -1,4 +1,4 @@
-//how to reverse a string in java  "india"
+//1)how to reverse a string in java  "india"
 public class ReverseString {
 
     public static void main(String[] args) {
